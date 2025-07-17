@@ -2,7 +2,12 @@
 
 ## Overview
 
+
 ## Business Question(s)
+which boroughs are most popular for filming?
+which categories of film are most shot in new york/
+which categores of film are shot in the most popular borough vice-versa for least popular
+
 
 ### AIMS grid
 
@@ -21,6 +26,19 @@
 cleaned using ms excel and python pandas, numpy libraries
 
 removes the parkingheld field, as it is not relevant to my analysis. 
+
+removed eventagency column, no unique values. every event has the same value- Mayor's Office of Media & Entertainment.
+
+converted multiple values in one row to multiple rows
+
+created new col, where project origin (domestic (USA) or international)
+
+how long are the events typically? any outliers (boroughs, film categories, sub categories) using startdatetime adn enddatetime 
+
+density of each borough on a map in regards to max events filmed.
+
+how early are the events booked (request is submitted) before the start date?
+
 ## Dashboard Features
 
 ## Insights & Analysis

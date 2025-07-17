@@ -17,6 +17,9 @@ density of each borough on a map in regards to max events filmed.
 
 how early are the events booked (request is submitted) before the start date?
 
+estimate number of street blocks per event
+
+
 ### AIMS grid
 
 

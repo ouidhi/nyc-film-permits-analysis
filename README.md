@@ -22,6 +22,7 @@ how early are the events booked (request is submitted) before the start date?
 
 ## Tech Stack
 - Python
+- Jupyter Notebook (VS code)
 - PowerBI
 - GitHub 
 

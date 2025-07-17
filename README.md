@@ -8,7 +8,7 @@ New York City is a global hub for film and television production, but how exactl
 
 This project explores filming trends across New York City to understand where and what type of content is most commonly shot. It looks at popular boroughs, common film categories, typical event durations, and time-of-day patterns. The goal is to uncover location preferences and production behaviors that can inform planning and logistics.
 
--------- CHANGE AFTER FINAL RESULTS !!!!!!--------
+-------- **CHANGE AFTER FINAL RESULTS** !!!!!!--------
 
 I initially expected Manhattan to dominate the data, given how often it’s featured in shows and movies — but the analysis helped validate **or** challenge those assumptions with real numbers. 
 
@@ -24,11 +24,17 @@ I initially expected Manhattan to dominate the data, given how often it’s feat
 
 ## Data Sources & Description
 
-The data is collected from [data.gov - City of New York | Film Permits](https://catalog.data.gov/dataset/film-permits) and maintained by [NYC Open Data](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p/about_data).
+This project uses publicly available data from the data.gov, specifically the City of New York Open Data Portal. 
 
+**Links:**
+- [Data Dictionary]()
+- [data.gov - City of New York | Film Permits](https://catalog.data.gov/dataset/film-permits)
+- [NYC Open Data](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p/about_data)
 
 
 ## Data Cleaning & Preparation
+
+The original data had some inconsistencies in formatting and datatypes. I've used Python libraries like pandas and numpy to pre-process my data. 
 
 cleaned using python pandas, numpy libraries
 

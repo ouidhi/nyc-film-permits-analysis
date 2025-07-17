@@ -1,4 +1,27 @@
-# nyc-film-permits-analysis
+# NYC Film Permits Analysis
+
+## Overview
+
+## Business Question(s)
+
+## Tech Stack
+- Excel
+- PowerBI
+- GitHub 
+
+
+## Data Sources & Description
+
+## Data Cleaning & Preparation
+
+## Dashboard Features
+
+## Insights & Analysis
+
+## Live Dashboard
+
+## Challenges & Learnings
+
 
 business objective
 aims grid- purpose, stakeholders,

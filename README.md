@@ -21,7 +21,6 @@ how early are the events booked (request is submitted) before the start date?
 
 
 ## Tech Stack
-- Excel
 - Python
 - PowerBI
 - GitHub 
@@ -31,7 +30,7 @@ how early are the events booked (request is submitted) before the start date?
 
 ## Data Cleaning & Preparation
 
-cleaned using ms excel and python pandas, numpy libraries
+cleaned using python pandas, numpy libraries
 
 removes the parkingheld field, as it is not relevant to my analysis. 
 

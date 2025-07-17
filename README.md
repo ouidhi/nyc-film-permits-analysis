@@ -22,6 +22,7 @@
 
 ## Challenges & Learnings
 
+During the data cleaning process, some columns had comma seperated values, and had to seperate them appropriately in PowerBI query. 
 
 business objective
 aims grid- purpose, stakeholders,

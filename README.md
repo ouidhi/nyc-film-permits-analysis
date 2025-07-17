@@ -2,35 +2,31 @@
 
 ## Overview
 
+New York City is a global hub for film and television production, but how exactly is its space and time used by the industry? This project analyzes publicly available film permit data to explore filming activity across NYC boroughs. Using Power BI, the dashboard uncovers patterns in filming locations, categories, durations, and daily timing. The goal is to visualize the scale and distribution of productions and provide insights valuable for city planners, production teams, and local businesses.
 
-## Business Question(s)
-which boroughs are most popular for filming?
+## Problem Statement
 
-which categories of film are most shot in new york/
+This project explores filming trends across New York City to understand where and what type of content is most commonly shot. It looks at popular boroughs, common film categories, typical event durations, and time-of-day patterns. The goal is to uncover location preferences and production behaviors that can inform planning and logistics.
 
-which categores of film are shot in the most popular borough vice-versa for least popular
+-------- CHANGE AFTER FINAL RESULTS !!!!!!--------
 
-how long are the events typically? any outliers (boroughs, film categories, sub categories) using 
-startdatetime adn enddatetime 
-
-density of each borough on a map in regards to max events filmed.
-
-how early are the events booked (request is submitted) before the start date?
-
-estimate number of street blocks per event
-
+I initially expected Manhattan to dominate the data, given how often it’s featured in shows and movies — but the analysis helped validate **or** challenge those assumptions with real numbers. 
 
 ### AIMS grid
 
 
 ## Tech Stack
+
 - Python
 - Jupyter Notebook (VS code)
 - PowerBI
 - GitHub 
 
-
 ## Data Sources & Description
+
+The data is collected from [data.gov - City of New York | Film Permits](https://catalog.data.gov/dataset/film-permits) and maintained by [NYC Open Data](https://data.cityofnewyork.us/City-Government/Film-Permits/tg4x-b46p/about_data).
+
+
 
 ## Data Cleaning & Preparation
 

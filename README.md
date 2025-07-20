@@ -42,9 +42,11 @@ removes the parkingheld field, as it is not relevant to my analysis.
 
 removed eventagency column, no unique values. every event has the same value- Mayor's Office of Media & Entertainment.
 
-converted multiple values in one row to multiple rows
+converted multiple zipcode values in one row to multiple rows
 
-created new col, where project origin (domestic (USA) or international)
+removed the rows with zipcode 00083- it is invalid
+
+replaces zipcode 10048 with 10007 as it is now the primary ZIP used for the World Trade Center site and the surrounding redeveloped area (like One WTC, 9/11 Memorial, etc.).
 
 
 ## Dashboard Features

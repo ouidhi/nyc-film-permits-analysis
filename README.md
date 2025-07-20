@@ -44,16 +44,19 @@ removed eventagency column, no unique values. every event has the same value- Ma
 
 converted multiple zipcode values in one row to multiple rows
 
+## Dashboard Features
+
+## Power Query DAX
+
 removed the rows with zipcode 00083- it is invalid
 
-replaces zipcode 10048 with 10007 as it is now the primary ZIP used for the World Trade Center site and the surrounding redeveloped area (like One WTC, 9/11 Memorial, etc.).
-
-
-## Dashboard Features
+removed 1 row with zipcode 10048. After ZIP code 10048 was retired post-9/11, the World Trade Center area in Lower Manhattan was redistributed under surrounding ZIP codes.
 
 ## Insights & Analysis
 
+
 ## Live Dashboard
+
 
 ## Challenges & Learnings
 

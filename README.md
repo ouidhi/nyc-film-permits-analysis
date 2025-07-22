@@ -52,6 +52,8 @@ removed the rows with zipcode 00083- it is invalid
 
 removed 1 row with zipcode 10048. After ZIP code 10048 was retired post-9/11, the World Trade Center area in Lower Manhattan was redistributed under surrounding ZIP codes.
 
+created multiple new columns and measure using DAX to visualize accurate insights.
+used count (distinct) for counting the events as each eventID is present multiple times due to the splitting of one row to many. 
 ## Insights & Analysis
 
 

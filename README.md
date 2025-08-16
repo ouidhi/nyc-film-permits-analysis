@@ -12,9 +12,9 @@ I initially expected Manhattan to dominate the data, given how often it’s feat
 
 ## Tech Stack
 
+- PowerBI
 - Python
 - Jupyter Notebook (VS code)
-- PowerBI
 - GitHub 
 
 ## Data Sources & Description

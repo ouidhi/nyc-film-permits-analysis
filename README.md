@@ -38,6 +38,26 @@ The original dataset contained inconsistencies in formatting and data types. To 
 
 ## Dashboard Features
 
+**Interactive Filters**
+
+- Sidebar filter panel allows toggling by: Borough (Manhattan, Brooklyn, Queens, Bronx, Staten Island), Year, Event Type (Shooting Permit, Rigging, etc.), Category (Television, Theater, Film, Commercial, etc.), Subcategory
+- Option to toggle between dashboard pages (Insights and Temporal Trends).
+
+**Event Insights Page**
+
+- KPI Cards: Total Events, Maximum Streets Held for Parking.
+- Event Density Map: Geographic distribution of events by ZIP code.
+- Events by Category: Horizontal bar chart showing event distribution by types
+- Events by Borough: Breakdown of total events across NYC boroughs.
+- Event Type Breakdown: Comparison of permits issued (Shooting, Rigging, Theater Load-in, etc.).
+
+**Temporal Trends Page**
+
+- KPI Cards: Median Event Duration, Median Permit Lead Time, Most Active Month, Most Active Year.
+- Hourly Event Activity: Line chart showing peak times for events during the day.
+- Average Event Duration by Borough: Comparison of average event durations across boroughs.
+- Monthly Trend of Events by Borough: Line chart showing seasonal/event frequency patterns.
+- Permit Lead Time by Month: Median days in advance permits were applied for, across months.
 
 ## Power Query DAX
 

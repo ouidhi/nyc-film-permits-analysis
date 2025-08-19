@@ -97,7 +97,10 @@ This analysis uncovers the temporal, spatial, and logistical patterns behind tho
 
 ## Live Dashboard
 
-[Click here to view the dashboard](https://app.powerbi.com/links/fMlHg6g_dH?ctid=eb34f74a-58e7-4a8b-9e59-433e4c412757&pbi_source=linkShare&bookmarkGuid=b5825699-c2f9-47fd-be9c-e251fc0a8711)
+Since a subscription is needed to share a live dashboard, Below is the link to the video demo.
+
+[Click here to view the dashboard](https://github.com/user-attachments/assets/915c71b8-5a7d-4fa2-aa1e-45cfd7b2c455)
+
 
 ## Challenges & Learnings
 

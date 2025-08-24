@@ -106,3 +106,6 @@ Since a subscription is needed to share a live dashboard, Below is the link to t
 
 During the data cleaning process, some columns had multiple values seperated by commas which violates the 1NF (first normal form) which requires that each cell has single value. I had to seperate them appropriately in individual rows to perform accurate analysis. 
 
+## 📬 Contact
+ 
+🔗 [LinkedIn](https://www.linkedin.com/in/vidhi-parmar1/) | [Email](vidhi30th@gmail.com) 

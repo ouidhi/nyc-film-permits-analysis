@@ -14,6 +14,7 @@ I initially expected Manhattan to dominate the data, given how often it’s feat
 
 - PowerBI
 - Python
+- Excel
 - Jupyter Notebook (VS code)
 - GitHub 
 

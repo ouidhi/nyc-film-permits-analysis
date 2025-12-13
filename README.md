@@ -98,7 +98,7 @@ This analysis uncovers the temporal, spatial, and logistical patterns behind tho
 
 ## Live Dashboard
 
-Since a subscription is needed to share a live dashboard, Below is the link to the video demo.
+Since a subscription is needed to share a live dashboard, Below is the video demo.
 
 [Click here to view the dashboard](https://github.com/user-attachments/assets/915c71b8-5a7d-4fa2-aa1e-45cfd7b2c455)
 
